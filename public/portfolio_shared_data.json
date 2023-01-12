@@ -1,20 +1,21 @@
 {
     "basic_info": {
       "name": "Mike Shen",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Engineer" ],
+      "headline": "Engineering professional with 20+ years of proven excellence in multiple roles.",
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mikeshen7",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mike-shen1/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Mike profile picture - small.jpg"
     },
     "skills": {
       "icons": [

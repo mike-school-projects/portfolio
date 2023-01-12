@@ -29,10 +29,15 @@ class Header extends Component {
     if (this.props.sharedData) {
       var name = this.props.sharedData.name;
       this.titles = this.props.sharedData.titles; //...map(x => [ x.toUpperCase(), 1500 ] ).flat();
+      this.headline = this.props.sharedData.headline;
     }
 
     const HeaderTitleTypeAnimation = React.memo( () => {
-      return this.titles
+      return this.titles 
+    }, (props, prevProp) => true);
+
+    const HeaderHeadlineTypeAnimation = React.memo( () => {
+      return this.headline 
     }, (props, prevProp) => true);
 
     return (
@@ -109,7 +114,9 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
+              <div className="title-container">
+                <HeaderHeadlineTypeAnimation />
+              </div>
             </div>
           </div>
         </div>
