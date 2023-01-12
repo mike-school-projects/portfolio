@@ -1,4 +1,6 @@
-# Modify this portfolio
+# Mike Shen's Portfolio Site
 
-Make it your own! 
-# portfolio
+## Resources
+
+[Deployed Site](https://mike-shen-portfolio.netlify.app/)
+[Original Template](https://www.npmjs.com/package/cra-template-react-portfolio)
