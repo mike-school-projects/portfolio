@@ -86,37 +86,35 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "ATS Automation",
+        "title": "Training / Engineering Manager",
+        "years": "2004 - 2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Controls Programming"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Controls Programming",
+          "Team Management",
+          "Project Management",
+          "Operations Management",
+          "Building Management Systems",
+          "Engineering",
+          "BACnet",
+          "Niagara4",
+          "Alerton",
+          "Delta"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy",
+        "title": "Engineering Watch Supervisor / Nuclear Reactor OperatorEngineering",
+        "years": "1998 - 2003",
         "mainTech": [
-          "Angular 7/8"
+          "Nuclear Engineering"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Nuclear Engineering",
+          "Control Systems"
         ]
       }
     ]
